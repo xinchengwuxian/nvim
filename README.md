@@ -1,2 +1,2 @@
-# vim
-vim plugin or config
+# nvim
+nvim plugin or config
